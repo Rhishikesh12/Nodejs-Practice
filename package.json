@@ -1,0 +1,19 @@
+{
+	"name": "nodejs_practice",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "nodemon index.js",
+		"start": "node index.js"
+	},
+	"author": "rhishikesh",
+	"license": "ISC",
+	"dependencies": {
+		"cli-color": "^2.0.3"
+	},
+	"devDependencies": {
+		"nodemon": "^3.0.1"
+	}
+}
